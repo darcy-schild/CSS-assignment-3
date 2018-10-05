@@ -166,4 +166,20 @@ a:hover {
        display: none;
     }
 
+    header {
+      padding: 1rem;
+    }
+
+    #helvetica {
+      margin: 0;
+    }
+
+    #arial {
+      padding-left: 2rem;
+    }
+
+    #georgia {
+      padding-right: 2rem;
+    }
+
 }
